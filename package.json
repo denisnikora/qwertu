@@ -20,6 +20,7 @@
   "bugs": {
     "url": "https://github.com/denisnikora/qwertu/issues"
   },
-  "homepage": "https://github.com/denisnikora/qwertu#readme"
-  
+  "homepage": "https://github.com/denisnikora/qwertu#readme",
+  "private": true
+
 }
