@@ -1,0 +1,25 @@
+{
+  "name": "excel-course",
+  "version": "1.0.0",
+  "description": "Pure JavaScript Excel Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denisnikora/qwertu.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "excel"
+  ],
+  "author": "Denis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denisnikora/qwertu/issues"
+  },
+  "homepage": "https://github.com/denisnikora/qwertu#readme"
+  
+}
